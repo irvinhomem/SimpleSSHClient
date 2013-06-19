@@ -29,7 +29,7 @@ import net.zwerks.SimpleSSHClient.FileSystemSourceFile;
 
 /**
  * @author irvin
- *
+ *Testing sshj library
  */
 public class SimpleSSHClient {
 
